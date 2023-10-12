@@ -1,6 +1,7 @@
 # 사진과 설명
 
 ![화면 캡처 2023-10-12 155243](https://github.com/ryeonwoong/mymath.lib/assets/127822756/6d3f2e39-040d-468e-b9b6-a3592230ec5e)
+
 먼저 디렉터리를 생성하고 진입한다.
 
 ![화면 캡처 2023-10-12 155324](https://github.com/ryeonwoong/mymath.lib/assets/127822756/9fd25424-6c13-4a14-8abb-90e6c1ef93e5)
